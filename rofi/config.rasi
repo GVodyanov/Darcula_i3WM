@@ -1,0 +1,8 @@
+configuration {
+ modi: "run";
+ theme: "flat-orange";
+ font: "hack 10";
+ combi-modi: "window,drun,ssh";
+ icon-theme: "Adwaita";
+ show-icons: true;
+ }
