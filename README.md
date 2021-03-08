@@ -10,3 +10,11 @@ pulseaudio
 rofi
 i3 status
 lightcord
+geany
+firefox
+picom
+
+Reccomended:
+lxappearance
+nitrogen
+
