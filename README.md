@@ -20,3 +20,30 @@ Reccomended:
 lxappearance
 nitrogen
 
+dunst folder goes in:
+~/.config/
+firefox folder contains file that is uploaded directly to firefox
+geany folder goes in:
+~/.config/
+i3 folder goes in:
+~/.config/
+i3status folder goes in:
+~/.config/
+rofi folder goes in:
+~/.config/
+.Xresources can be ignored for the most part
+DarculaLightcord.theme.css goes in:
+~/.config/Lightcord_BD/themes/
+bashPrompt is to be copy pasted into .bashrc in:
+~/
+flat-orange.rasi (rofi theme) goes in:
+~/
+gtkTheme.tar.gz goes extracted into:
+~/.themes/
+icons.tar.gz goes extracted into:
+~/.icons/
+note file contains the colors for the themes
+picom.conf goes in:
+/etc/xdg/
+preview.png is a preview of some of the themes
+wallpaper.jpg is the wallpaper used in preview
