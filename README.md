@@ -13,6 +13,7 @@ lightcord
 geany
 firefox
 picom
+noto-fonts
 
 Reccomended:
 lxappearance
