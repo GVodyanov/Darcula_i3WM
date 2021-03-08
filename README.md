@@ -1,5 +1,6 @@
 # Dotfiles
 Just some config files, use however u want
+based loosely off intellij's darcula theme
 
 Requirements
 i3-gaps
