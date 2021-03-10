@@ -15,6 +15,8 @@ geany
 firefox
 picom
 noto-fonts
+scrot
+ttf-symbola-free
 
 Reccomended:
 lxappearance
